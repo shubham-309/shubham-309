@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-309&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-309" /> </p>
 
-- 🌱 I’m currently learning **Node.JS, typescript etc.**
+- 🌱 I’m currently learning **LLMs, Langchain, Genrative AI  etc.**
 
 - 👨‍💻 All of my projects are available at [https://shubham-pandey-portfolio.netlify.app/](https://shubham-pandey-portfolio.netlify.app/)
 
