@@ -13,9 +13,7 @@
 
 - 🧰 Skilled with **HuggingFace, Python, FastAPI, Prompt Engineering, ElasticSearch, Pinecone, AWS**
 
-- 📄 Checkout my latest resume: [Click to View](https://drive.google.com/file/d/1dJ2V5-w9gQNOVAejjCy4UfShF2_JQ18h/view?usp=sharing)
-
-- 🌐 Portfolio: [https://shubham-pandey-portfolio.netlify.app/](https://shubham-pandey-portfolio.netlify.app/)
+- 📄 Checkout my latest resume: [Click to View](https://drive.google.com/file/d/1BQ-qtvHjS_GUgz3xof_GKUddj1HKrVQo/view?usp=sharing)
 
 - 📫 Reach me at: **shubham.py309@gmail.com**
 
