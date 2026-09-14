@@ -46,7 +46,7 @@ AI / Machine Learning Engineer building Generative AI systems that survive produ
 💬 Ask me about: Agentic RAG, Graph RAG, MCP, LoRA/QLoRA fine-tuning, LLM evaluation, guardrails, and production AI optimization.
 
 🏗️ How I Structure a Production LLM System
-
+```
                     ┌──────────────────────┐
                     │      USER QUERY      │
                     └──────────┬───────────┘
@@ -84,7 +84,7 @@ AI / Machine Learning Engineer building Generative AI systems that survive produ
                     ┌──────────────────────┐
                     │   PRODUCTION ANSWER  │
                     └──────────────────────┘
-
+```
 My principle: production GenAI is not just about getting a good answer — it is about making every step safe, observable, evaluable, and cost-efficient.
 
 🛠️ Tech Arsenal
