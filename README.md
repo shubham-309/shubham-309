@@ -13,7 +13,7 @@
 
 - 🧰 Skilled with **HuggingFace, Python, FastAPI, Prompt Engineering, ElasticSearch, Pinecone, AWS**
 
-- 📄 Checkout my latest resume: [Click to View](https://drive.google.com/file/d/1BQ-qtvHjS_GUgz3xof_GKUddj1HKrVQo/view?usp=sharing)
+- 📄 Checkout my latest resume: [Click to View](https://drive.google.com/file/d/1SokGydqSTSIbCUwiBzBxotuTb9xXewfY/view?usp=sharing)
 
 - 📫 Reach me at: **shubham.py309@gmail.com**
 
