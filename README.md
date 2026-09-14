@@ -209,69 +209,105 @@ Token-cost optimization, semantic/response caching, latency and inference optimi
 
 🔒 Enterprise work: agentic-workflow framework and OWASP-10 guardrails pipeline at Gartner; production RAG for a US LegalTech client over 5,000+ documents; and an SEO content engine that improved keyword rankings by ~8 positions.
 
-💼 Experience
+<h2>💼 Experience</h2>
 
-🟣 Gartner
+<table>
+  <tr>
+    <td width="80">
+      <h2>🟣</h2>
+    </td>
+    <td>
+      <h3>Gartner</h3>
+      <strong>Software Engineer — Machine Learning / NLP</strong><br/>
+      <em>Nov 2025 – Present</em>
+    </td>
+  </tr>
+</table>
 
-Software Engineer — Machine Learning / NLP · Nov 2025 – Present
+<p>
+  Building production AI systems for enterprise research workflows.
+</p>
 
-Building production AI systems for enterprise research workflows.
+<table>
+  <tr>
+    <td width="180"><strong>🤖 Agentic AI</strong></td>
+    <td>Unified agentic framework → <strong>~50% faster workflow integration</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🛡️ AI Safety</strong></td>
+    <td>LLM guardrails covering the <strong>OWASP Top 10 for LLM Applications</strong></td>
+  </tr>
+  <tr>
+    <td><strong>📊 Observability</strong></td>
+    <td><strong>100% of production LLM calls</strong> traced with Langfuse</td>
+  </tr>
+  <tr>
+    <td><strong>💰 Optimization</strong></td>
+    <td><strong>~35% lower token spend</strong> through semantic &amp; response caching</td>
+  </tr>
+  <tr>
+    <td><strong>🔎 Research Automation</strong></td>
+    <td>Automated Magic Quadrant research workflows → <strong>reduced analyst effort</strong></td>
+  </tr>
+</table>
 
-Focus
+<br/>
 
-Impact
+<table>
+  <tr>
+    <td width="80">
+      <h2>🔵</h2>
+    </td>
+    <td>
+      <h3>Impressico Business Solutions</h3>
+      <strong>Associate Applied AI Engineer</strong><br/>
+      <em>Oct 2023 – Nov 2025</em>
+    </td>
+  </tr>
+</table>
 
-🤖 Agentic AI
+<p>
+  Delivered production GenAI systems for a <strong>US-based LegalTech client</strong>.
+</p>
 
-Built a unified agentic framework that reduced new-workflow integration time by ~50%
+<table>
+  <tr>
+    <td width="180"><strong>📚 RAG</strong></td>
+    <td>Production RAG across <strong>5,000+ legal documents</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Fine-tuning</strong></td>
+    <td>QLoRA / PEFT classifiers → <strong>92% F1</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🔗 Agentic Workflows</strong></td>
+    <td>LangGraph automation across <strong>6 business workflows</strong></td>
+  </tr>
+  <tr>
+    <td><strong>👥 Hiring Intelligence</strong></td>
+    <td><strong>~60% less</strong> per-candidate screening time</td>
+  </tr>
+</table>
 
-🛡️ AI Safety
+<br/>
 
-Built LLM guardrails covering the OWASP Top 10 for LLM Applications
+<table>
+  <tr>
+    <td width="80">
+      <h2>⚪</h2>
+    </td>
+    <td>
+      <h3>Isoftra Digital</h3>
+      <strong>Software Developer Intern</strong><br/>
+      <em>Mar 2022 – May 2022</em>
+    </td>
+  </tr>
+</table>
 
-📊 Observability
-
-Traced 100% of production LLM calls with Langfuse
-
-💰 Optimization
-
-Reduced token spend by ~35% through semantic and response caching
-
-🔎 Research Automation
-
-Automated Magic Quadrant research workflows and reduced analyst effort
-
-🔵 Impressico Business Solutions
-
-Associate Applied AI Engineer · Oct 2023 – Nov 2025
-
-Delivered production GenAI systems for a US-based LegalTech client.
-
-Focus
-
-Impact
-
-📚 RAG
-
-Production RAG across 5,000+ legal documents
-
-🧠 Fine-tuning
-
-QLoRA / PEFT classifiers reaching 92% F1
-
-🔗 Agentic Workflows
-
-LangGraph automation across 6 business workflows
-
-👥 Hiring Intelligence
-
-Reduced per-candidate screening time by ~60%
-
-⚪ Isoftra Digital
-
-Software Developer Intern · Mar 2022 – May 2022
-
-Delivered production web features across the full software-development lifecycle using Laravel, PHP, HTML/CSS and JavaScript.
+<p>
+  Built and shipped production web features across the full software-development
+  lifecycle using <strong>Laravel, PHP, HTML/CSS, and JavaScript</strong>.
+</p>
 
 📊 GitHub Pulse
 
